@@ -1,0 +1,19 @@
+.button {
+  border-radius: var(--border-radius2x);
+  background: var(--background-medium);
+  border: none;
+  padding: 0;
+  height: 55.7px;
+  display: flex;
+  width: 100%;
+}
+.buttonIn {
+  padding: 0.5rem 1rem;
+  height: calc(55.7px - 12px);
+  border-radius: var(--border-radius2x);
+}
+.buttonOut {
+  width: 100%;
+  height: calc(55.7px - 6px);
+  border-radius: var(--border-radius2x);
+}

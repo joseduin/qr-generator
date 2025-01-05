@@ -1,0 +1,23 @@
+.wrap {
+  width: auto;
+  border: 1px solid var(--background-dark);
+  border-radius: var(--border-radius);
+}
+.separator {
+  background: var(--background-medium);
+  height: 6px;
+  width: 100%;
+  border-bottom: 1px solid var(--background-dark);
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+}
+.input {
+  width: 100%;
+  color: var(--background-dark);
+  background: white;
+  border: 0;
+  border-top: 6px solid #eae4f6;
+  border-bottom-left-radius: var(--border-radius);
+  border-bottom-right-radius: var(--border-radius);
+  padding: 0.5rem;
+}
