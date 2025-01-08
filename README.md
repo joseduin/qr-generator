@@ -2,6 +2,8 @@
 
 Una aplicación simple creada con **Next.js** que permite generar códigos QR en tiempo real. 
 
+![Screen_Recording_20250108_115933_Chrome~2_1](https://github.com/user-attachments/assets/62761d68-e431-4f34-9b5e-9c077bba5f35)
+
 ## 🚀 Características:
 - ✅ Genera códigos QR a partir de cualquier texto introducido.
 - ✅ Visualiza el código QR generado directamente en pantalla.
